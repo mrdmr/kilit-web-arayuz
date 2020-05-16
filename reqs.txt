@@ -1,0 +1,5 @@
+Django==2.2.2
+django-rest-framework==0.1.0
+djangorestframework==3.9.4
+#PyQt5==5.12.2
+requests==2.22.0
